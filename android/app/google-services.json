@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "931730877246",
+    "project_id": "geolocationapp-87c34",
+    "storage_bucket": "geolocationapp-87c34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931730877246:android:04c73296bfb54aab8d9a6f",
+        "android_client_info": {
+          "package_name": "com.example.geoget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOz3WvuD0qYP-RWcg-aUUBezb1bX9unc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931730877246:android:90bf2af9d84291d48d9a6f",
+        "android_client_info": {
+          "package_name": "com.example.geosend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOz3WvuD0qYP-RWcg-aUUBezb1bX9unc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931730877246:android:b99a49a2821429ae8d9a6f",
+        "android_client_info": {
+          "package_name": "com.example.smart_admin_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOz3WvuD0qYP-RWcg-aUUBezb1bX9unc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
